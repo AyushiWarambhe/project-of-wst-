@@ -79,4 +79,8 @@
 }
 .heroid{
     background: linear-gradient(180deg, rgba(0,0,0,.1) 50%, rgba(255,0,0,.1));
+   
+}
+.img-12{
+    height: 300px;
 }
